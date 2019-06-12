@@ -1,0 +1,2 @@
+# CMA
+Church Management Application
